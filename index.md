@@ -5,4 +5,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Test 1
+- [ ] syntax do be doin
+- [ ] i will google this like 19 times its fine
 
